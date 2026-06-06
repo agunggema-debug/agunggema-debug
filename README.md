@@ -1,4 +1,5 @@
 ## Hi there 👋
+![agunggema-debug](img/github-header-banner.png)
 
 <!--
 **agunggema-debug/agunggema-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on **purnama tirtatex**
+🌱 I’m currently learning **Laravel**
