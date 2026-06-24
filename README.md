@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Full-Stack Developer | Laravel & React
+"Full-Stack Engineer specializing in building scalable web applications. Focused on optimizing database performance and automating workflows to cut operational costs"
 
 🔭 I’m currently working on **purnama tirtatex**
 🌱 I’m currently learning **Laravel** Framework
