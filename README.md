@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![agunggema-debug](img/github-header-banner.png)
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/09372b84-113d-4911-9259-a2c115edf074" />
+
 
 <!--
 **agunggema-debug/agunggema-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
