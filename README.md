@@ -22,7 +22,10 @@ Full-Stack Developer | Laravel & React
 "Full-Stack Engineer specializing in building scalable web applications. Focused on optimizing database performance and automating workflows to cut operational costs"
 
 🔭 I’m currently working on **purnama tirtatex**
+
 🌱 I’m currently developing a dynamic website featuring a custom CMS and ERP application.
+
+✅ IT Palugada ("Apa Lu Mau, Gua Ada")
 
 ##### Skills
 <p align="center">
