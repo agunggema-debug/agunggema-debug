@@ -33,8 +33,8 @@ Full-Stack Developer | Laravel & React
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,css,cs,electron,gemini,react,nextjs,nuxtjs,ts,opensource,sass,sqlite,supabase" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,tailwindcss,turso,vite,vscode,vuejs" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,css,cs,electron,gemini,react,nextjs,nuxtjs,opensource,sass,sqlite,supabase" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,tailwindcss,ts,turso,vite,vscode,vuejs" />
   </a>
 </p>
 
